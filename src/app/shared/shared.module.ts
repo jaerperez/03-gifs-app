@@ -5,7 +5,7 @@ import { SidebarComponent } from './component/sidebar/sidebar.component';
 
 @NgModule({
   declarations: [
-    SidebarComponent
+    SidebarComponent,
   ],
   imports: [
     CommonModule
